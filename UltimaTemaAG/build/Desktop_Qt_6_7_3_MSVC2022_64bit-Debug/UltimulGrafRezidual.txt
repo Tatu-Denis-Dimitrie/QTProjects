@@ -1,0 +1,5 @@
+Numar total de muchii: 4
+Start: 2, Finish: 1, Cost: 3, Highlighted: Da, Edge to: 1
+Start: 3, Finish: 1, Cost: 7, Highlighted: Da, Edge to: 1
+Start: 2, Finish: 3, Cost: 1, Highlighted: Nu, Edge to: 3
+Start: 3, Finish: 2, Cost: 3, Highlighted: Nu, Edge to: 2
